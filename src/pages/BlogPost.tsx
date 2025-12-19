@@ -23,7 +23,7 @@ This launch isn’t just a reminder of what we’ve built — it’s a step towa
 
 Welcome to a dashboard designed not just to manage conversations — but to move ideas forward.`,
     author: "Product Team",
-    date: "Dec 15, 2024",
+    date: "Dec 15, 2025",
     readTime: "3 min read",
     image: "/Dashboard.png?w=800&auto=format&fit=crop",
     category: "Product",
@@ -37,7 +37,7 @@ Welcome to a dashboard designed not just to manage conversations — but to move
 
 Security on our platform goes beyond individual messages. Group chats and project management spaces are designed to maintain the same level of encryption and privacy, even as teams grow and collaboration becomes more complex. Whether you’re discussing sensitive business ideas, coordinating tasks, or sharing files, your work remains private and protected at every step. By combining seamless collaboration with strong encryption, we’re creating a space where trust is built into the product — empowering you to focus on innovation, growth, and meaningful connections, knowing your conversations and projects are secure by design`,
     author: "Leadership",
-    date: "Dec 10, 2024",
+    date: "Dec 10, 2025",
     readTime: "4 min read",
     image: "/end-end.png?w=800&auto=format&fit=crop",
     category: "Company",
@@ -53,7 +53,7 @@ Scheduling features allow teams to set deadlines, manage dependencies, and adjus
 
 Assignment and collaboration are deeply integrated into the workflow. Team members can be assigned roles and responsibilities per task, enabling clear ownership and streamlined coordination. Combined with secure communication and activity tracking, the system ensures that planning, execution, and delivery remain synchronized. Whether managing small teams or complex, multi-phase projects, the platform provides the reliability, scalability, and clarity required to deliver work efficiently and on time.`,
     author: "Engineering Team",
-    date: "Dec 5, 2024",
+    date: "Dec 5, 2025",
     readTime: "5 min read",
     image: "/Project.png?w=800&auto=format&fit=crop",
     category: "Feature",
@@ -77,7 +77,7 @@ As we enter 2026, we're more committed than ever to delivering exceptional value
 Thank you to everyone who has been part of our journey. Here's to an even more remarkable year ahead!`,
     author: "Co-Founder and CTO",
     image : "/content.jpg?w=800&auto=format&fit=crop",
-    date: "Dec 1, 2024",
+    date: "Dec 1, 2025",
     readTime: "6 min read",
     category: "Company",
   },

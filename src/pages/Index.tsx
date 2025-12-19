@@ -38,7 +38,7 @@ const companyPosts: BlogPost[] = [
       "Plan Smarter, Execute Faster, Track Everything",
     content: "Full article content here...",
     author: "Engineering Team",
-    date: "Dec 5, 2024",
+    date: "Dec 5, 2025",
     readTime: "5 min read",
     image: "/Project.png?w=800&auto=format&fit=crop",
     category: "Feature",
@@ -50,7 +50,7 @@ const companyPosts: BlogPost[] = [
       "Creativity Deserves the Right Tools.",
     content: "Full article content here...",
     author: "CEO",
-    date: "Dec 1, 2024",
+    date: "Dec 1, 2025",
     readTime: "6 min read",
     image : "/content.jpg?w=800&auto=format&fit=crop",
     category: "Company",
@@ -230,7 +230,7 @@ const Index = () => {
                 Lupyd<span className="text-muted-foreground">.</span>
               </span>
               <p className="text-muted-foreground text-sm">
-                © 2024 Lupyd. Building the future.
+                © Lupyd. Building the future.
               </p>
             </div>
           </div>
