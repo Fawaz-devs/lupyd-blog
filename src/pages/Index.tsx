@@ -213,7 +213,7 @@ const Index = () => {
                 We'd love to hear from you.
               </p>
               <Button size="lg" asChild>
-                <a href="mailto:hello@Lupyd.com">
+                <a href="mailto:contact@Lupyd.com">
                   Contact Us
                   <ArrowRight className="w-4 h-4 ml-2" />
                 </a>
