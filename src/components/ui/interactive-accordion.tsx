@@ -16,25 +16,25 @@ const items: AccordionItem[] = [
     number: "01",
     title: "Design",
     content:
-      "We craft pixel-perfect interfaces that blend aesthetics with functionality, creating memorable digital experiences.",
+      "We create clean, intuitive, and human-centered designs that make complex experiences feel simple and engaging.",
   },
   {
     id: "development",
     number: "02",
     title: "Development",
-    content: "Building robust, scalable solutions with modern technologies that stand the test of time and traffic.",
+    content: "We build secure, scalable, and high-performance products using modern technologies engineered for reliability.",
   },
   {
     id: "strategy",
     number: "03",
     title: "Strategy",
-    content: "Data-driven insights and creative thinking combine to position your brand for lasting success.",
+    content: "We align technology with clear vision and data-driven strategy to turn ideas into impactful products.",
   },
   {
     id: "growth",
     number: "04",
     title: "Growth",
-    content: "Sustainable scaling strategies that transform startups into industry leaders through measurable results.",
+    content: "We focus on sustainable growth by enabling creators, teams, and businesses to scale with confidence.",
   },
 ]
 
